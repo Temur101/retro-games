@@ -6,7 +6,7 @@ export function Home() {
       <header className="mb-8">
         <h1 className="text-3xl font-bold tracking-tight">Retro Games</h1>
         <p className="mt-2 text-sm text-slate-400">
-          Небольшая коллекция классических игр прямо в браузере.
+          Коллекция классических ретро игр прямо в вашем браузере.
         </p>
       </header>
 
